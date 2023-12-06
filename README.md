@@ -22,4 +22,4 @@ How do I add it to the Themes folder?
 
 # Demo view
 
-![image](https://cdn.discordapp.com/attachments/1150242860273254460/1182045897723482153/Discord_YMDm0EDNh3.png?ex=65834507&is=6570d007&hm=228af737a6e6e2ea375db6b41936bc251d36315e44d8151b48181b2156a9299a&)
+![image](https://cdn.discordapp.com/attachments/1150242860273254460/1182045897723482153/Discord_YMDm0EDNh3.png)
